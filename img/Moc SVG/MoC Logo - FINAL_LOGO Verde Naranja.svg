@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #faaf3b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Roboto-Medium, Roboto;
+        font-size: 24px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #39b44a;
+        font-family: Roboto-Black, Roboto;
+        font-size: 60px;
+        font-weight: 800;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="23.75" y="56.31" width="201.5" height="23"/>
+  <text class="cls-3" transform="translate(3.72 51.46)"><tspan x="0" y="0">MASTER</tspan></text>
+  <text class="cls-2" transform="translate(35.72 76.36)"><tspan x="0" y="0">OF COLLE</tspan><tspan class="cls-4" x="107.51" y="0">C</tspan><tspan x="122.84" y="0">TING</tspan></text>
+</svg>

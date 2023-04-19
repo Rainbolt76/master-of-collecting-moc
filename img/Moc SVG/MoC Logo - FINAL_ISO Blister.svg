@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 152 190">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #faaf3b;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-family: Roboto-Medium, Roboto;
+        font-size: 11.68px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        stroke: #f05a24;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-9 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-10 {
+        fill: #0a364f;
+      }
+
+      .cls-11 {
+        fill: #e5e5e5;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_4);
+        stroke-width: 2.5px;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: gray;
+      }
+
+      .cls-7 {
+        fill: #39b44a;
+        font-family: Roboto-Black, Roboto;
+        font-size: 29.21px;
+        font-weight: 800;
+        stroke-width: .5px;
+      }
+
+      .cls-13 {
+        fill: #128850;
+      }
+
+      .cls-14 {
+        fill: #666;
+      }
+
+      .cls-15 {
+        mix-blend-mode: soft-light;
+        opacity: .44;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".6"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="76" y1="65.54" x2="76" y2="176.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a5dd4b"/>
+      <stop offset=".12" stop-color="#9ed94a"/>
+      <stop offset=".29" stop-color="#8bd14a"/>
+      <stop offset=".49" stop-color="#6cc248"/>
+      <stop offset=".72" stop-color="#40ae47"/>
+      <stop offset=".96" stop-color="#099545"/>
+      <stop offset="1" stop-color="#009145"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-8">
+    <g id="Capa_1" data-name="Capa 1">
+      <g>
+        <g>
+          <g>
+            <rect class="cls-2" x="2.72" y="1.74" width="146.56" height="186.52" rx="23.55" ry="23.55"/>
+            <rect class="cls-10" x="6.39" y="6.41" width="139.22" height="177.18" rx="21.21" ry="21.21"/>
+            <g>
+              <rect class="cls-13" x="18.87" y="68.5" width="114.26" height="111.09" rx="15.88" ry="15.88"/>
+              <path class="cls-14" d="m117.25,69c8.48,0,15.38,6.9,15.38,15.38v79.33c0,8.48-6.9,15.38-15.38,15.38H34.75c-8.48,0-15.38-6.9-15.38-15.38v-79.33c0-8.48,6.9-15.38,15.38-15.38h82.5m0-1H34.75c-9.05,0-16.38,7.33-16.38,16.38v79.33c0,9.05,7.33,16.38,16.38,16.38h82.5c9.05,0,16.38-7.33,16.38-16.38v-79.33c0-9.05-7.33-16.38-16.38-16.38h0Z"/>
+            </g>
+            <rect class="cls-6" x="15.72" y="64.59" width="120.56" height="115.5" rx="16.38" ry="16.38"/>
+            <path class="cls-3" d="m85.33,14.8h-4.98c-.27-2.21-2.12-3.91-4.35-3.91s-4.08,1.71-4.35,3.91h-4.98c-2.03,0-3.67,1.68-3.67,3.75h0c0,2.07,1.64,3.75,3.67,3.75h18.66c2.03,0,3.67-1.68,3.67-3.75h0c0-2.07-1.64-3.75-3.67-3.75Z"/>
+          </g>
+          <g class="cls-9">
+            <path class="cls-5" d="m114.83,114.35c0-21.45-17.39-38.83-38.83-38.83s-38.83,17.39-38.83,38.83c0,.59.02,1.17.04,1.76-.03.24-.04.49-.04.73v38.83c0,3.57,2.9,6.47,6.47,6.47s6.47-2.9,6.47-6.47v-12.39c2.54,2.28,5.39,4.22,8.46,5.76v18.57c0,3.57,2.9,6.47,6.47,6.47s6.47-2.9,6.47-6.47v-14.7c1.47.17,2.96.27,4.48.27s3.01-.1,4.48-.27v14.7c0,3.57,2.9,6.47,6.47,6.47s6.47-2.9,6.47-6.47v-18.57c3.08-1.55,5.92-3.49,8.46-5.76v12.39c0,3.57,2.9,6.47,6.47,6.47s6.47-2.9,6.47-6.47v-38.83c0-.25-.02-.49-.04-.73.03-.58.04-1.17.04-1.76Z"/>
+            <path class="cls-3" d="m69.85,105.51l3.04-3.04c1.36-1.36,1.36-3.57,0-4.93-1.36-1.36-3.57-1.36-4.93,0l-3.04,3.04-3.04-3.04c-1.36-1.36-3.57-1.36-4.93,0-1.36,1.36-1.36,3.57,0,4.93l3.04,3.04-3.04,3.04c-1.36,1.36-1.36,3.57,0,4.93,1.36,1.36,3.57,1.36,4.93,0l3.04-3.04,3.04,3.04c1.36,1.36,3.57,1.36,4.93,0,1.36-1.36,1.36-3.57,0-4.93l-3.04-3.04Z"/>
+            <path class="cls-3" d="m94.25,105.51l3.04-3.04c1.36-1.36,1.36-3.57,0-4.93-1.36-1.36-3.57-1.36-4.93,0l-3.04,3.04-3.04-3.04c-1.36-1.36-3.57-1.36-4.93,0-1.36,1.36-1.36,3.57,0,4.93l3.04,3.04-3.04,3.04c-1.36,1.36-1.36,3.57,0,4.93,1.36,1.36,3.57,1.36,4.93,0l3.04-3.04,3.04,3.04c1.36,1.36,3.57,1.36,4.93,0,1.36-1.36,1.36-3.57,0-4.93l-3.04-3.04Z"/>
+          </g>
+          <g class="cls-15">
+            <rect class="cls-11" x="107.38" y="113.09" width="21" height="60" rx="10.5" ry="10.5"/>
+          </g>
+          <g class="cls-15">
+            <path class="cls-11" d="m28.88,138.09h0c3.04,0,5.5-4.7,5.5-10.5v-39c0-5.8-2.46-10.5-5.5-10.5h0c-3.04,0-5.5,4.7-5.5,10.5v39c0,5.8,2.46,10.5,5.5,10.5Z"/>
+          </g>
+        </g>
+        <g>
+          <rect class="cls-1" x="26.95" y="49.17" width="98.09" height="11.2"/>
+          <text class="cls-7" transform="translate(17.2 46.81)"><tspan x="0" y="0">MASTER</tspan></text>
+          <text class="cls-4" transform="translate(32.78 58.93)"><tspan x="0" y="0">OF COLLE</tspan><tspan class="cls-12" x="52.34" y="0">C</tspan><tspan x="59.8" y="0">TING</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

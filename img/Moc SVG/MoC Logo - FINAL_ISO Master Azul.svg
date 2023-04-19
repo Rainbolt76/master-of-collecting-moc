@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 252 216">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: Roboto-Medium, Roboto;
+        font-size: 24px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #0a364f;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_4);
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        font-family: Roboto-Black, Roboto;
+        font-size: 60px;
+        font-weight: 800;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="126" y1="-6.7" x2="126" y2="133.14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a5dd4b"/>
+      <stop offset=".12" stop-color="#9ed94a"/>
+      <stop offset=".29" stop-color="#8bd14a"/>
+      <stop offset=".49" stop-color="#6cc248"/>
+      <stop offset=".72" stop-color="#40ae47"/>
+      <stop offset=".96" stop-color="#099545"/>
+      <stop offset="1" stop-color="#009145"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-3" x="25.25" y="187.11" width="201.5" height="23"/>
+  <g>
+    <path class="cls-5" d="m175,54.89c0-27.06-21.94-49-49-49s-49,21.94-49,49c0,.74.02,1.48.06,2.22-.03.3-.06.61-.06.93v49c0,4.51,3.66,8.17,8.17,8.17s8.17-3.66,8.17-8.17v-15.63c3.21,2.87,6.8,5.32,10.68,7.27v23.43c0,4.51,3.66,8.17,8.17,8.17s8.17-3.66,8.17-8.17v-18.55c1.86.21,3.74.33,5.65.33s3.8-.12,5.65-.33v18.55c0,4.51,3.66,8.17,8.17,8.17s8.17-3.66,8.17-8.17v-23.43c3.88-1.95,7.47-4.4,10.68-7.27v15.63c0,4.51,3.66,8.17,8.17,8.17s8.17-3.66,8.17-8.17v-49c0-.31-.02-.62-.06-.93.03-.73.06-1.47.06-2.22Z"/>
+    <path class="cls-1" d="m118.24,43.74l3.83-3.83c1.72-1.72,1.72-4.5,0-6.22-1.72-1.72-4.5-1.72-6.22,0l-3.83,3.83-3.83-3.83c-1.72-1.72-4.5-1.72-6.22,0-1.72,1.72-1.72,4.5,0,6.22l3.83,3.83-3.83,3.83c-1.72,1.72-1.72,4.5,0,6.22,1.72,1.72,4.5,1.72,6.22,0l3.83-3.83,3.83,3.83c1.72,1.72,4.5,1.72,6.22,0,1.72-1.72,1.72-4.5,0-6.22l-3.83-3.83Z"/>
+    <path class="cls-1" d="m149.02,43.74l3.83-3.83c1.72-1.72,1.72-4.5,0-6.22-1.72-1.72-4.5-1.72-6.22,0l-3.83,3.83-3.83-3.83c-1.72-1.72-4.5-1.72-6.22,0-1.72,1.72-1.72,4.5,0,6.22l3.83,3.83-3.83,3.83c-1.72,1.72-1.72,4.5,0,6.22,1.72,1.72,4.5,1.72,6.22,0l3.83-3.83,3.83,3.83c1.72,1.72,4.5,1.72,6.22,0,1.72-1.72,1.72-4.5,0-6.22l-3.83-3.83Z"/>
+  </g>
+  <text class="cls-6" transform="translate(5.22 182.26)"><tspan x="0" y="0">MASTER</tspan></text>
+  <text class="cls-2" transform="translate(37.22 207.16)"><tspan x="0" y="0">OF COLLE</tspan><tspan class="cls-4" x="107.51" y="0">C</tspan><tspan x="122.84" y="0">TING</tspan></text>
+</svg>
