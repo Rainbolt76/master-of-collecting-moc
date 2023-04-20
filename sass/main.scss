@@ -90,3 +90,23 @@ body{
         border-radius: 10px 10px;
     }
 }
+
+// CARRITO VACÍO
+
+.carrito {
+    background-color: var(--blue-light);
+    padding: 0px 100px 100px 100px;
+  }
+  
+  .vacio {
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    box-shadow: 1px 1px 5px 0px black;
+  }
