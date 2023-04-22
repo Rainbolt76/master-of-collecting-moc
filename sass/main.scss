@@ -37,7 +37,16 @@ body{
     color: var(--green-FF);
     font-weight: 700;
     font-size: 40px;
-    padding: 20px;
+    padding: 20px 40px 0px 40px;
+}
+
+.tit1 {
+    background-color: var(--blue-light);
+    font-family: 'Roboto', sans-serif;
+    color: var(--green-FF);
+    font-weight: 700;
+    font-size: 40px;
+    padding: 20px 40px 20px 40px;
 }
 
 .cards{
@@ -95,7 +104,13 @@ body{
 
 .carrito {
     background-color: var(--blue-light);
-    padding: 0px 100px 100px 100px;
+    padding: 0px 100px 20px 100px;
+  }
+
+  .nosotros {
+    background-color: var(--black);
+    padding: 100px;
+    border-radius: 20px 20px;
   }
   
   .vacio {
@@ -110,3 +125,69 @@ body{
     color: white;
     box-shadow: 1px 1px 5px 0px black;
   }
+
+// INFO CARRITO
+
+.cards{
+    padding: 40px;
+    background-color: var(--);
+}
+
+.container2{
+    position: relative;
+
+    img {
+        padding: 40px;
+        width: 60%;
+        display: block;
+        border-radius: 20px 20px 0 0;
+        margin: auto;
+    }
+}
+
+.details2 {
+    font-family: 'Roboto', sans-serif;
+    color: var(--white);
+    font-weight: 400;
+    font-size: 16px;
+    margin: 10px 10px 15px 10px;
+    text-align: center;       
+}
+
+.infoDetalles {
+    text-align: center;
+    color: var(--white);
+}
+
+// VER MAS
+
+.vermas a {
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    color: var(--black);
+    text-decoration: none;
+    background-color: var(--green-FF);
+  }
+  
+  .vermas a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+@media (max-width: 800px)
+{  .cards{
+    background-color: var(--blue-light);
+    display: grid;
+    grid-template-columns: repeat(auto-fit,
+    minmax(500px,1fr));
+    padding: 0px 30px 20px 30px;
+    grid-gap: 30px;
+   }    
+}
+
+
+

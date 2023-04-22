@@ -12,6 +12,15 @@
     --black: #36383F;
 }
 
+.envio{
+    background-color: rgb(43, 42, 42);
+    color: var(--white);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 7px;
+}
+
 a{
     text-decoration: none;
 }
@@ -24,6 +33,7 @@ ul{
     background-color: var(--orange);
     box-shadow: 1px 1px 5px 0px black;
     position: sticky;
+    z-index: 1;
     top: 0;
     width: 100%;
 }
@@ -116,7 +126,7 @@ ul{
     top:0;
 }
 
-@media (min-width: 950px)
+@media (min-width: 800px)
 {
     .nav
     {
