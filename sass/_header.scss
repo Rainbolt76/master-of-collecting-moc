@@ -65,8 +65,9 @@ ul{
     color: var(--white);
 }
 
-.menu a:hover{
-    background-color: var(--green-light);
+.menu li a:hover{
+    background-color: var(--green-FF);
+    color: var(--blue);
 }
 
 .hamb{

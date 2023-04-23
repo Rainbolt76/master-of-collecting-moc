@@ -165,8 +165,9 @@ ul {
   color: var(--white);
 }
 
-.menu a:hover {
-  background-color: var(--green-light);
+.menu li a:hover {
+  background-color: var(--green-FF);
+  color: var(--blue);
 }
 
 .hamb {
@@ -306,6 +307,11 @@ ul {
   font-size: 20px;
 }
 
+.form-register .botons:hover {
+  color: white;
+  text-decoration: underline;
+}
+
 .cabecera img {
   max-width: 1200px;
   display: block;
@@ -443,8 +449,8 @@ body {
   height: 40px;
   text-align: center;
   font-size: 16px;
-  margin: 10px;
-  padding: 10px;
+  margin: 5px;
+  padding: 6px;
   border-radius: 7px;
   color: var(--black);
   text-decoration: none;
@@ -454,6 +460,24 @@ body {
 .vermas a:hover {
   color: white;
   text-decoration: underline;
+  background-color: var(--orange);
+}
+
+.comprar a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 7px;
+  color: var(--black);
+  text-decoration: none;
+  background-color: var(--green-FF);
+}
+
+.comprar a:hover {
+  color: white;
+  text-decoration: underline;
+  background-color: var(--orange);
 }
 
 @media (max-width: 800px) {
